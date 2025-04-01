@@ -1,0 +1,43 @@
+# Android Studio and Gradle
+.gradle/
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
+local.properties
+out/
+.caches/
+.DerbyLock
+*.hprof
+*.lock
+*.log
+*.pid
+
+# Temporary files
+*.tmp
+*.tmp file
+*.swp
+*.swo
+*.swn
+*.swx
+*.swpx
+*.swnx
+
+# macOS files
+.DS_Store
+.AppleDouble/
+.AppleDB
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Vim
+*.swp
+*.swo
